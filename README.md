@@ -22,5 +22,3 @@ ___
 
 ## Assignment 4 - 8 MIPS Microprocessor Pipelined Implementation Simulation
 <img src="Images/MIPS_PL.png" alt="drawing" height="480"/>
-
-### Use [this](https://github.com/buetcse17/Logisim-Circuit-Tester) repository for automated testing 
